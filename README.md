@@ -8,9 +8,10 @@ This Repository contains Image processing Assignments, implemented in Python usi
 Feel free to post comments for any changes, corrections or suggestions.
 
  
-[Programs](https://github.com/satyaswarup98/Image-Processing/tree/master/Programs)
+Program files [here](https://github.com/satyaswarup98/Image-Processing/tree/master/Programs)
 
-[Answer file](https://satyaswarup98.github.io/Image-Processing/answer.html)
+Answer file [here](https://satyaswarup98.github.io/Image-Processing/answer.html)
+
 
 
 
