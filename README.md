@@ -10,7 +10,7 @@ Feel free to post comments for any changes, corrections or suggestions.
  
 [Programs](https://github.com/satyaswarup98/Image-Processing/tree/master/Programs)
 
-[Answer file](https://github.com/satyaswarup98/Image-Processing/answer.html)
+[Answer file](https://satyaswarup98.github.io/Image-Processing/answer.html)
 
 
 
