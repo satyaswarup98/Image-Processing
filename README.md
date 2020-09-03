@@ -8,7 +8,7 @@ Feel free to post comments for any changes, corrections or suggestions.<br /><br
 
  
 Program files [here](https://github.com/satyaswarup98/Image-Processing/tree/master/Programs)<br />
-Answer file [here](https://satyaswarup98.github.io/Image-Processing/answer.html) (Large file takes time to load)
+Answer file [here](https://satyaswarup98.github.io/Image-Processing/2(b).html) (Large file takes time to load)
 <br /><br />
 
 
